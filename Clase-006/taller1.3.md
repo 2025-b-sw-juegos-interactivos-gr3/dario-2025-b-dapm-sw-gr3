@@ -1,6 +1,6 @@
-# 💻 Taller 1.3 (Asincrónico): Arqueología Digital  
+# 💻 Taller Arqueología Digital  
 **Tema:** La Evolución de la Industria – Cómo las Restricciones Crean Innovación  
-**Integrantes:** [Nombre 1] y [Nombre 2]  
+**Integrantes:** Dario Palma y Angel Cabezas  
 
 ---
 
