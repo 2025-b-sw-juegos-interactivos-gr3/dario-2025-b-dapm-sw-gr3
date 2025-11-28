@@ -1,55 +1,74 @@
-💻 Taller 1.3 (Asincrónico): Arqueología Digital
-Tema: La Evolución de la Industria - Cómo las Restricciones Crean Innovación
-Integrantes: [Nombre 1] y [Nombre 2]
+# 💻 Taller 1.3 (Asincrónico): Arqueología Digital  
+**Tema:** La Evolución de la Industria – Cómo las Restricciones Crean Innovación  
+**Integrantes:** [Nombre 1] y [Nombre 2]  
 
-Era Asignada: 💥 El Crash y el Amanecer de la 3.ª Generación (1983-1984)
-Juego Seleccionado: Tetris
+---
 
-Año de Lanzamiento: 1984 (Versión Prototipo)
+## 🕰 Era Asignada  
+💥 **El Crash y el Amanecer de la 3.ª Generación (1983–1984)**  
 
-Plataforma Original: Electrónika 60 (Minicomputadora soviética sin tarjeta gráfica)
+## 🎮 Juego Seleccionado  
+**Tetris**  
+- **Año de lanzamiento:** 1984 (versión prototipo)  
+- **Plataforma original:** Electrónika 60 (minicomputadora soviética sin tarjeta gráfica)  
 
-1. Hito Tecnológico Clave
-El triunfo de la Lógica sobre los Gráficos. Al analizar el contexto de 1984, identificamos que mientras Occidente sufría el "Crash del 83" saturado de consolas caseras, en la URSS la innovación nacía de la escasez.
+---
 
-Portabilidad Radical: La verdadera revolución de Tetris no fue visual, sino estructural. Alexey Pajitnov escribió el juego en Pascal. Al separar la lógica del juego de los gráficos, creó un código "agnóstico" al hardware.
+## 1. Hito Tecnológico Clave  
+### **El triunfo de la Lógica sobre los Gráficos**  
 
-Independencia de la CPU: A diferencia de los juegos de Arcade que dependían de chips específicos (sprites), Tetris podía correr en cualquier máquina que pudiera mostrar texto, lo que permitió su expansión viral ("viralidad de disquete") mucho antes de llegar a Nintendo.
+En 1984, mientras Occidente se recuperaba del "Crash del 83" —un mercado saturado de consolas y juegos de baja calidad—, en la Unión Soviética la innovación nacía de la escasez.  
 
-2. Análisis de Diseño (MDA Revisado)
-Para entender por qué funciona, desglosamos el juego usando el marco MDA completo:
+- **Portabilidad Radical:**  
+  Alexey Pajitnov escribió Tetris en Pascal, separando por completo la lógica del juego de su representación visual. Esto creó un código **"agnóstico al hardware"**, capaz de funcionar en cualquier sistema que pudiera mostrar texto.  
 
-Mecánicas (Las Reglas):
-Rotación y Traslación: Manipulación de tetrominós en un espacio de cuadrícula de 10x20.
+- **Independencia de la CPU:**  
+  A diferencia de los arcades occidentales, que dependían de chips dedicados para sprites y gráficos, Tetris no necesitaba hardware especializado. Solo requería una terminal de texto, lo que facilitó su expansión viral a través de disquetes universitarios y estatales: una **"viralidad de disquete"** que anticipó décadas la distribución digital.
 
-Gravedad Forzada: Las piezas caen automáticamente, imponiendo un límite de tiempo físico para la toma de decisiones.
+---
 
-Eliminación de Filas: La única forma de ganar espacio (y tiempo) es destruir lo que construyes.
+## 2. Análisis de Diseño (MDA Revisado)  
 
-Dinámicas (El Comportamiento del Jugador):
-Este fue nuestro hallazgo clave: El juego genera una dinámica de "Gestión de Riesgos". El jugador debe decidir si apilar alto para esperar la pieza larga (la barra 'I') y ganar más puntos (un 'Tetris'), o jugar seguro y limpiar líneas simples para evitar perder.
+### **Mecánicas (Las Reglas)**  
+- **Rotación y traslación:** Manipulación de tetrominós en una cuadrícula de 10×20.  
+- **Gravedad forzada:** Las piezas caen automáticamente, creando una presión temporal constante.  
+- **Eliminación de filas:** La única forma de ganar espacio (y tiempo) es destruir lo que uno mismo ha construido.  
 
-La Curva de Pánico: A medida que la velocidad aumenta, la estrategia cambia de "planificación a largo plazo" a "supervivencia reactiva" instantánea.
+### **Dinámicas (El Comportamiento del Jugador)**  
+- **Gestión de riesgos:** El jugador debe elegir entre apilar alto para completar un "Tetris" (4 líneas a la vez, con la pieza 'I') y maximizar puntos, o jugar conservadoramente para evitar la derrota.  
+- **Curva de pánico:** A medida que aumenta la velocidad, la estrategia evoluciona de **planificación deliberada** a **supervivencia reactiva instantánea**.  
 
-Estéticas (La Experiencia Emocional):
-Flow (Flujo): El juego induce un estado de trance cognitivo donde la acción y la conciencia se fusionan.
+### **Estéticas (La Experiencia Emocional)**  
+- **Flow (Flujo):** Tetris induce un estado de concentración profunda donde acción y conciencia se fusionan.  
+- **Efecto Tetris:** El juego genera una compulsión visual tan poderosa que los jugadores reportan "ver piezas cayendo" incluso después de dejar de jugar —una estética cognitiva que trasciende la pantalla.
 
-El "Efecto Tetris": Identificamos una estética de compulsión visual; el juego es tan geométricamente satisfactorio que el jugador sigue "jugando" en su mente incluso después de apagar la computadora.
+---
 
-3. Innovación Clave (El "Salto")
-La Abstracción Universal. Consideramos que Tetris rompió el paradigma de que los videojuegos debían ser "simulaciones" (de naves, de guerras, de deportes).
+## 3. Innovación Clave (El "Salto")  
+### **La Abstracción Universal**  
 
-El Puzle Infinito: Fue el primer juego masivo que no tenía "condición de victoria". No puedes ganar en Tetris, solo puedes posponer la derrota. Esta filosofía de diseño (el "high score" como única meta) definió el mercado de juegos casuales y móviles décadas antes de que existieran los smartphones. Demostró que la jugabilidad pura superaba a la narrativa.
+Tetris rompió el paradigma dominante: los videojuegos no tenían que simular mundos (naves espaciales, deportes, guerras). Podían ser **puzles abstractos y autónomos**.  
 
-4. La "Restricción Ingeniosa" (Arqueología del Código)
-La Restricción:
-"Una pantalla que no podía dibujar imágenes". La Electrónika 60 no tenía capacidad para gráficos rasterizados (no podía dibujar píxeles ni sprites). Solo podía mostrar líneas de texto alfanumérico monocromático. ¿Cómo creas un videojuego visual dinámico en una máquina diseñada para hojas de cálculo?
+- **El puzle infinito:**  
+  No existe una condición de victoria. El objetivo no es "ganar", sino **posponer la derrota** el mayor tiempo posible.  
+- **Legado anticipado:**  
+  Esta filosofía —centrada en el *high score* y en la jugabilidad pura— definió el ADN de los futuros juegos casuales y móviles, décadas antes del nacimiento del smartphone.
 
-La Solución (El Hack de 1984):
-El uso de Paréntesis como Píxeles.
+---
 
-El Hack Visual: Pajitnov no dibujó cuadrados. Utilizó un par de corchetes [ ] parpadeantes para representar los bloques. Al poner dos corchetes juntos, la relación de aspecto en los monitores de fósforo verde de la época creaba la ilusión de un "cuadrado" perfecto.
+## 4. La "Restricción Ingeniosa" (Arqueología del Código)  
 
-Optimización de Refresco: En lugar de redibujar toda la pantalla (lo cual era demasiado lento para la CPU soviética), el código calculaba solo las coordenadas que cambiaban y enviaba comandos de texto para borrar o escribir caracteres específicos.
+### **La Restricción**  
+> *"Una pantalla que no podía dibujar imágenes."*  
 
-Resultado: Convirtió una limitación de hardware paralizante (falta de gráficos) en una estética icónica y minimalista que permitió que el juego fuera comprensible instantáneamente en cualquier cultura, sin barreras de idioma ni necesidad de manuales.
+La Electrónika 60 carecía de capacidades gráficas rasterizadas: no podía renderizar píxeles, sprites ni colores. Solo mostraba texto alfanumérico monocromático en una terminal diseñada para hojas de cálculo.
+
+### **La Solución (El Hack de 1984)**  
+- **Paréntesis como píxeles:**  
+  Pajitnov usó corchetes **`[ ]`** para representar bloques. En los monitores de fósforo verde de la época, dos corchetes adyacentes creaban la **ilusión óptica de un cuadrado** gracias a la relación de aspecto de los caracteres.  
+
+- **Optimización de refresco:**  
+  En lugar de redibujar toda la pantalla (demasiado lento para la CPU soviética), el código actualizaba únicamente las coordenadas que cambiaban, enviando comandos de texto para **borrar o escribir caracteres específicos**.  
+
+### **Resultado**  
+Convertir una limitación paralizante en una **estética minimalista y universal**. Tetris se volvió comprensible al instante en cualquier cultura, sin manuales, sin narrativa y sin barreras lingüísticas —una obra maestra nacida de la necesidad.
