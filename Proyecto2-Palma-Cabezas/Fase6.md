@@ -30,7 +30,6 @@ El siguiente diagrama muestra la relación entre el GameManager (Controlador glo
 
 ![Diagrama UML](images/image_a94242.png)
 
-![alt text](image.png)
 
 ### 3. 📐 Patrones de Diseño Seleccionados
 
